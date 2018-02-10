@@ -1,2 +1,2 @@
 # NoSQL_OpenData_NYC
-Download some data from NewYork OpenData Portal and try to determine the "Best place to live" in New York using MongoDB database
+Ce repos est constitué du fichier pdf ABOUBACAR_ALKA-PROJET_NOSQL.pdf qui est le rapport du projet, et des deux scripts python Script_load_data.py (qui permet de télécharger les données) et Queries_bestPlaces.py (qui contient la partie analyse du projet) 
